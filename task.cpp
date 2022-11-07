@@ -10,7 +10,7 @@ float reach;
 float time;
 
 std::cin >> time;
-rach = 0.5*time*time*G;
+reach = 0.5*time*time*G;
 std::cout << reach << std::endl;
 
 return 0;
